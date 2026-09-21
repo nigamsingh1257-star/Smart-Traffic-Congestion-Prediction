@@ -1,0 +1,19 @@
+{
+  "model_type": "Gradient Boosting (Tuned)",
+  "best_params": {
+    "min_samples_leaf": 10,
+    "subsample": 0.8,
+    "random_state": 42,
+    "learning_rate": 0.1,
+    "max_depth": 6,
+    "n_estimators": 300
+  },
+  "test_mae": 145.18,
+  "test_rmse": 223.67,
+  "test_r2": 0.9872,
+  "feature_set": "tree",
+  "n_features": 66,
+  "train_rows": 34042,
+  "test_rows": 6533,
+  "val_strategy": "chronological 80/20 inner split; proxy search with 50 trees then full refit"
+}

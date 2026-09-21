@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R2,Train_time_s
+Random Forest,147.21,231.94,0.9862,34.6
+Gradient Boosting,151.18,233.1,0.9861,56.6
+Linear Regression,330.54,448.37,0.9484,0.1

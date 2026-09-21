@@ -1,0 +1,5 @@
+Model,MAE,RMSE,R2,delta_RMSE
+GBM - Tuned,145.18,223.67,0.9872,-8.27
+RF  - Tuned,143.54,226.03,0.9869,-5.91
+RF  - Baseline,147.21,231.94,0.9862,-0.0
+GBM - Baseline,151.18,233.1,0.9861,1.16

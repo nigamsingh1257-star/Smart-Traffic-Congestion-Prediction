@@ -1,0 +1,67 @@
+feature,importance
+traffic_lag_1h,0.668954773683386
+traffic_lag_168h,0.1364378575037001
+hour_cos,0.1356445155707256
+hour,0.013366571932340412
+hour_sin,0.007772361350480247
+day_of_week,0.007437959813160381
+traffic_lag_24h,0.007184425374661607
+is_weekend,0.006582118052167627
+traffic_roll_mean_3h,0.005119646355354215
+dow_sin,0.005075758726752848
+temp,0.0015272878843202629
+traffic_roll_mean_24h,0.0010209989190215264
+dow_cos,0.0007463905890604836
+year,0.0005930196979358473
+is_rush_hour,0.0004919111674327747
+month,0.00045909121412375373
+month_cos,0.0004060222855069077
+month_sin,0.0003107132234606444
+clouds_all,0.0002418318421852291
+wd_snow,0.00011199496767525088
+wm_snow,9.859496846283813e-05
+rain_1h,8.187743149812521e-05
+wm_clouds,6.105375230818627e-05
+wd_overcast clouds,3.922163237311826e-05
+wd_light snow,2.9906142251318212e-05
+wd_broken clouds,2.164987424720005e-05
+wd_haze,1.8325470195682243e-05
+wm_haze,1.7082162167793608e-05
+wm_clear,1.5475981772349422e-05
+snow_1h,1.3967790752980006e-05
+wd_sky is clear,1.202399782081113e-05
+wd_scattered clouds,1.09419789451606e-05
+wm_rain,1.0428143520701318e-05
+wm_thunderstorm,9.437692025160213e-06
+wd_light rain,8.97507628235202e-06
+wd_heavy snow,7.982417620142179e-06
+wd_moderate rain,7.943156865249585e-06
+wd_heavy intensity rain,7.605826175322616e-06
+is_holiday,5.499937548025867e-06
+wd_few clouds,5.488887685017594e-06
+wd_mist,5.440083774301964e-06
+wm_fog,5.17392373385941e-06
+wm_mist,4.818332618727058e-06
+wd_light intensity drizzle,3.074698618922735e-06
+wd_proximity thunderstorm,2.5123849821937336e-06
+wd_fog,2.4387310389091312e-06
+wm_drizzle,2.0272781826636998e-06
+wd_proximity shower rain,1.971020784353627e-06
+wd_thunderstorm,1.1986984324697474e-06
+wd_thunderstorm with rain,9.429256539215096e-07
+wd_thunderstorm with light rain,6.594673397569882e-07
+wd_drizzle,6.387311309679682e-07
+wd_thunderstorm with heavy rain,3.71249739968106e-07
+wm_other,0.0
+wd_heavy intensity drizzle,0.0
+wd_light intensity shower rain,0.0
+wd_light rain and snow,0.0
+wd_light shower snow,0.0
+wd_sleet,0.0
+wd_proximity thunderstorm with rain,0.0
+wd_proximity thunderstorm with drizzle,0.0
+wd_squalls,0.0
+wd_thunderstorm with light drizzle,0.0
+wd_thunderstorm with drizzle,0.0
+wd_smoke,0.0
+wd_very heavy rain,0.0
